@@ -1,16 +1,18 @@
-## Hi there 👋
+## ✨ About Me
+learner
+- **X**: [xenofc01](https://x.com/xenofc01)
 
-<!--
-**xenofc01/xenofc01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💸 Donate
+- **EVM:** 0x3660981ddf6f4927ED63290ABd766fde0c2FEF20
+- **SOL:** BUoewJkRRZbQrV5jbLnhX34SpoBb7wQH787kpnQMyJZM
+- **SUI:** 0xf862b68c2979c5bec7f168795fb0769717bd94c8c5d6a0372952998d526c2304
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👾 Status
+```
+{
+  "interest": ["Airdrop", "Web3"],
+  "level": "mid intermediate-begginer",
+  "hobbies": ["Game", "Code", "Cycling"]
+}
+```
