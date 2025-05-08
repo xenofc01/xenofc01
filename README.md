@@ -9,7 +9,7 @@ learner
 
 
 ### 👾 Status
-```
+```yaml
 {
   "interest": ["Airdrop", "Web3"],
   "level": "mid intermediate-begginer",
